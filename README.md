@@ -21,7 +21,6 @@ Challenge_TelecomX_2/
 ├── TelecomX_Data.json                         # Dataset principal (7,267 clientes)
 ├── telecom_churn_analysis_fbeltran.ipynb      # Notebook Parte 1: Análisis Exploratorio
 ├── telecom_churn_ml_prediction.ipynb          # Notebook Parte 2: Machine Learning
-├── example/                                   # Directorio de ejemplos
 └── .git/                                      # Control de versiones Git
 ```
 
